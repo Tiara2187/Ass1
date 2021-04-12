@@ -1,0 +1,41 @@
+NAVIGATION
+	+ As a User, I should be able to switch to another page
+		- Create Homepage as default page (blank)
+		- Create Post page (blank)
+		- Create About Me page (blank)
+
+HOMEPAGE
+	+ As a User, I should be able to see posts preview on Homepage
+		- Show title as a link
+		- Show Author
+		- Show post content preview
+		- Show published date
+	+ As a User I Should be able to see sidebar on Homepage
+
+POST-PAGE
+	+ As a User, I Should be able to view detailed post and it's additional information
+		- Create HTML Structure for Post-pages
+		- Design and create a layout for Post-pages
+	+ As a User, I Should be able to post a Comments inside a blog post
+		- Implement Post Comments
+
+ABOUTME-PAGE
+	+ As an Owner, I should be able to show my portofolios
+		- Show picture
+		- Show information or biograph
+
+NOTIFICATION
+	+ As a User, I Should be able to see the notification about every operation that i did in the web
+		- define a the style of a Notification
+	+ As a User, I Should be able to dismiss the notification that are shown previously
+
+
+CREATIVITY
+	= Explore how to add simple animation that given value for user experience
+	= Explore how to improve UI style that makes sense for user experience
+	= Explore about Responsive Web
+
+
++ : Story
+= : Task
+- : Sub-task
